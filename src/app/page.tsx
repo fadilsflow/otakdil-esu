@@ -24,7 +24,8 @@ export default async function Home() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
-      <br /><h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl mb-8">
+      <br />
+      <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl mb-8">
         Anime Top
       </h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5">
